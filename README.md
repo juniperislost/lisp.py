@@ -1,2 +1,3 @@
-# arithmetic-lang.py
-A simple language developed in Python for learning.
+# lisp.py
+
+A simple lisp interpreter written in Python.
