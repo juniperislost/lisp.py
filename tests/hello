@@ -1,0 +1,3 @@
+(begin
+    (define message "Hello, world!")
+    (print message))
